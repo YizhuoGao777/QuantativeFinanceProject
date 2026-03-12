@@ -1,0 +1,2 @@
+2025-05-14 22:57:14,695 - INFO - {'orderUuid': 'ord_Dp9bzhDEC2BXwQb17ic12L', 'order': {'order_type': 1, 'primary_asset': 1, 'secondary_asset': 494, 'quantity_asset': 1, 'quantity': '5', 'trigger': None, 'status': 4, 'created_time': 1747227434361, 'updated_time': 1747227434564, 'amount': '1136.37832510872454448', 'total': '5', 'rate': '0.004373543467158693', 'aud_value': '5', 'swyftxValue': '5', 'userCountryValue': '5'}, 'processed': True}
+2025-05-14 22:57:14,695 - INFO - [{'rate': 0.004373543467158693, 'amount': 1136.3783251087245, 'sold': 0}]
